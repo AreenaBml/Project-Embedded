@@ -137,7 +137,7 @@ void loop() {
 }
 ```
 
-## Firbase 
+## Firebase 
 
 ```css
 #include <WiFi.h>
